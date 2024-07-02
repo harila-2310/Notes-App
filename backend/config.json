@@ -1,0 +1,3 @@
+{
+    "connectionString":"mongodb+srv://hari:admin@cluster0.oej4mbx.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0?directConnection=true"
+}
